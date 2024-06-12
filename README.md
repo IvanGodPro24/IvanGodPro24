@@ -2,9 +2,11 @@
 
 <h2 align="center">I'm an aspiring developer</h2>
 
-<h3>Languages and Tools</h3>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2"/>
+<h3 align="center">Languages and Tools</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
@@ -31,6 +33,13 @@
       alt="JS"/>
 </a>
 
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="/assets/bootstrap.png"
+      width="36"
+      height="36"
+      alt="Bootstrap"/>
+</a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="/assets/git.png"
       width="36"
@@ -39,6 +48,11 @@
 </a>
 </div>
 
-Follow me
+</br>
 
-👋 Hi, I’m Ivan!
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanGodPro24&show_icons=true&theme=highcontrast" />
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGodPro24&theme=highcontrast&layout=compact" />
+</details>
