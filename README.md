@@ -1,12 +1,12 @@
 ![Header](https://github.com/IvanGodPro24/IvanGodPro24/blob/main/assets/logo.png)
 
-<h2 align="center">I'm an aspiring developer</h2>
+<h2 align="center">I'm an aspiring developer 👩‍💻</h2>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">🛠 Languages and Tools 🛠</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
@@ -51,7 +51,7 @@
 </br>
 
 <details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <summary><h2><b>⭐ GitHub stats</b></h2></summary>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanGodPro24&show_icons=true&theme=highcontrast" />
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGodPro24&theme=highcontrast&layout=compact" />
