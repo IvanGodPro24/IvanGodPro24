@@ -1,6 +1,6 @@
 ![Header](https://github.com/IvanGodPro24/IvanGodPro24/blob/main/assets/logo.png)
 
-## I'm an aspiring developer
+<h2 align="center">I'm an aspiring developer</h2>
 
 Languages and Tools
 
