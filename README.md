@@ -3,7 +3,7 @@ Header
 About me
 
 Languages and Tools
- 
-Follow me 
+
+Follow me
 
 👋 Hi, I’m Ivan!
