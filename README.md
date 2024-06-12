@@ -3,8 +3,7 @@
 <h2 align="center">I'm an aspiring developer</h2>
 
 <h3>Languages and Tools</h3>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 Follow me
 
