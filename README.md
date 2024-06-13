@@ -64,3 +64,7 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGodPro24&theme=highcontrast&layout=compact" />
 </details>
+
+### Make support:
+
+<a href="https://www.buymeacoffee.com/vanyanep5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
