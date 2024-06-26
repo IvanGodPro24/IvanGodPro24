@@ -46,6 +46,14 @@
       height="36"
       alt="Git"/>
 </a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="/assets/figma.png"
+      width="36"
+      height="36"
+      alt="Figma"/>
+</a>
+
 </div>
 
 ###
